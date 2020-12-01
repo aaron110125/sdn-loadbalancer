@@ -19,3 +19,6 @@ OS ~ Ubuntu 18.04 LTS ~https://ubuntu.com/
 # Topology 
 
 ![image](https://user-images.githubusercontent.com/22559413/100772413-8786c200-33cd-11eb-820b-70f6653e8474.png)
+
+Here h1,h2,h3 ~ Web servers
+
