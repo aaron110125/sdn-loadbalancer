@@ -24,3 +24,5 @@ OS ~ Ubuntu 18.04 LTS ~https://ubuntu.com/
 
 Here h1,h2,h3 ~ Web servers
 
+sudo ./pox.py log.level --DEBUG misc.ip_loadbalancer --ip=10.0.1.1 --servers=10.0.0.1,10.0.0.2,10.0.0.3
+
