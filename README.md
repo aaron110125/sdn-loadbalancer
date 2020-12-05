@@ -23,7 +23,9 @@ OS ~ Ubuntu 18.04 LTS ~https://ubuntu.com/
 ![image](https://user-images.githubusercontent.com/22559413/100772413-8786c200-33cd-11eb-820b-70f6653e8474.png)
 
 Here h1,h2,h3 ~ Web servers
+
 c0 ~ controller
+
 10.0.1.1 => IP of the master controller server
 
 sudo ./pox.py log.level --DEBUG misc.ip_loadbalancer --ip=10.0.1.1 --servers=10.0.0.1,10.0.0.2,10.0.0.3
