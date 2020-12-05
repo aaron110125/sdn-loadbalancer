@@ -12,9 +12,9 @@ ip_loadbalancer2.py is used to implement weighted round-robin algorithm
 # System Information
 SDN Controller ~ POX https://github.com/noxrepo/pox
 
-Virtual Network Topology ~ http://mininet.org/
+Virtual Network Topology ~ Mininet~ http://mininet.org/
 
-Evaluation ~ https://iperf.fr/
+Evaluation ~ Iperf~ https://iperf.fr/
 
 OS ~ Ubuntu 18.04 LTS ~https://ubuntu.com/
 
@@ -30,3 +30,4 @@ sudo ./pox.py log.level --DEBUG misc.ip_loadbalancer --ip=10.0.1.1 --servers=10.
 
 ![image](https://user-images.githubusercontent.com/22559413/100786572-58c61700-33e0-11eb-95b4-d1551a802f0e.png)
 
+BLB - Before Load Balancing   ALB - After Load Balancing
