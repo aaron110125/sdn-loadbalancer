@@ -28,7 +28,7 @@ sudo ./pox.py log.level --DEBUG misc.ip_loadbalancer --ip=10.0.1.1 --servers=10.
 
 # Results
 
-![image](https://user-images.githubusercontent.com/22559413/100786572-58c61700-33e0-11eb-95b4-d1551a802f0e.png)
+![image](https://user-images.githubusercontent.com/22559413/101245741-eb1a3380-36dc-11eb-9f5d-a369c21f91c7.png)
 
 BLB - Before Load Balancing                                                                                                                                                          
 ALB - After Load Balancing
